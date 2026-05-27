@@ -1,0 +1,11 @@
+{
+  "name": "dev-repo",
+  "version": "1.0.0",
+  "description": "Developer repository regulated by Coral Security Gate",
+  "scripts": {
+    "test-scan": "node ciScan.js"
+  },
+  "dependencies": {
+    "axios": "^1.16.1"
+  }
+}
